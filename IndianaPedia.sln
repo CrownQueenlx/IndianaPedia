@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianaPedia.WebMVC", "IndianaPedia.WebMVC\IndianaPedia.WebMVC.csproj", "{710D742C-AFE4-49D2-B1D6-CC86D66D7869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianaPedia.Services", "IndianaPedia.Services\IndianaPedia.Services.csproj", "{721F0F72-04B2-4188-B53E-9700C4790FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianaPedia.Models", "IndianaPedia.Models\IndianaPedia.Models.csproj", "{DFCDE210-C6DE-4AFC-9D2B-7208103B0108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianaPedia.Data", "IndianaPedia.Data\IndianaPedia.Data.csproj", "{BE223590-417C-444C-867D-10078D16AD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{710D742C-AFE4-49D2-B1D6-CC86D66D7869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710D742C-AFE4-49D2-B1D6-CC86D66D7869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710D742C-AFE4-49D2-B1D6-CC86D66D7869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710D742C-AFE4-49D2-B1D6-CC86D66D7869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721F0F72-04B2-4188-B53E-9700C4790FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721F0F72-04B2-4188-B53E-9700C4790FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721F0F72-04B2-4188-B53E-9700C4790FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721F0F72-04B2-4188-B53E-9700C4790FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCDE210-C6DE-4AFC-9D2B-7208103B0108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCDE210-C6DE-4AFC-9D2B-7208103B0108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCDE210-C6DE-4AFC-9D2B-7208103B0108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCDE210-C6DE-4AFC-9D2B-7208103B0108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE223590-417C-444C-867D-10078D16AD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE223590-417C-444C-867D-10078D16AD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE223590-417C-444C-867D-10078D16AD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE223590-417C-444C-867D-10078D16AD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
